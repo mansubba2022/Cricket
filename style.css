@@ -1,0 +1,25 @@
+*{
+  text-align: center;
+}
+
+#reset{
+  font-size: 40px;
+  border-radius: 10px;
+}
+
+.fnt{
+  font-size: 40px;
+}
+
+.usr-choice{
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  border: none;
+  border-radius: 50px;
+  background-color: rgb(92, 177, 92);;
+}
+
+.img-choice{
+  height: 75px;
+}
